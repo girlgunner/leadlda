@@ -1,0 +1,1 @@
+java -Dfile.enconding=utf-8 -jar leadlda.jar ./data/july/msg-wids.data ./data/july/weibos.vocab 50 ./model/july/
